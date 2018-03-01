@@ -1,6 +1,7 @@
 drop table if exists IrisTbl;
 
 create table IrisTbl (
+   ID int not null primary key,
    SepalLength decimal(2,1) not null,
    SepalWidth decimal(2,1) not null,
    PetalLength decimal(2,1) not null,
