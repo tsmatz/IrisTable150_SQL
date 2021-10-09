@@ -1,4 +1,4 @@
-# Readme
+# Iris Classification on SQL Server Machine Learning Services
 
 This is the SQL script to generate SQL Server's table for well-know Iris classification dataset.
 
